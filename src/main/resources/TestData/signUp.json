@@ -1,0 +1,15 @@
+{
+  "data 1": [
+    {
+      "email" : "aziza@gmail.com",
+      "password" : "12345678",
+      "confirmPassword" : "12345678",
+      "inputText": "test",
+      "toggleActiveMessage": "Click to turn the switch OFF",
+      "toggleInactiveMessage": "Click to turn the switch ON",
+      "firstOptionText": "webdriver.io is awesome",
+      "secondOptionText": "Appium is awesome",
+      "thirdOptionText": "This app is awesome"
+    }
+  ]
+}
